@@ -9,7 +9,7 @@
         <div class="max-w-md">
           <h1 class="mb-5 text-5xl font-bold">Introducing iFruit</h1>
           <p class="mb-5 text-xl">Augmenting Realities, Connecting Futures.</p>
-          <button class="btn btn-primary" onclick="window.location.href='/#order-now';">Buy Now</button>
+          <button class="btn btn-primary" onclick="window.location.href='/ifruit/#order-now';">Buy Now</button>
         </div>
       </div>
     </div>
